@@ -1,3 +1,4 @@
+% türev örneği
 syms f(x)
 
 f(x) = 2*x+3;
