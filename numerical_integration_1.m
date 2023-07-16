@@ -12,3 +12,9 @@ n=4;
 deltax=(x(5)-x(1))/n
 
 I=(deltax/2)*y(1)+y(5)+2*sum(y(2:4))
+
+%int(exp(-x^2),-inf,inf)
+
+%x=[3 5 7 9 11];
+%y=[3 4 6 8 12];
+%trapz(x,y)
